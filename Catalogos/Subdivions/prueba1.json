@@ -1,0 +1,80 @@
+{
+    "data" : [  
+        { "id": 1,
+         "MX": {
+                       "Country_Subdivions" : {
+                           "JAL": { "type": "State", "name": "Jalisco" },
+                           "MEX": { "type": "State", "name": "México" },
+                           "DUR": { "type": "State", "name": "Durango" },
+                           "TAB": { "type": "State", "name": "Tabasco" },
+                           "GUA": { "type": "State", "name": "Guanajuato" },
+                           "'CMX": { "type": "City", "name": "Ciudad de México" },
+                           "SIN": { "type": "State", "name": "Sinaloa" },
+                           "BCS": { "type": "State", "name": "Baja California Sur" },
+                           "NAY": { "type": "State", "name": "Nayarit" },
+                           "AGU": { "type": "State", "name": "Aguascalientes" },
+                           "ROO": { "type": "State", "name": "Quintana Roo" },
+                           "NLE": { "type": "State", "name": "Nuevo León" },
+                           "BCN": { "type": "State", "name": "Baja California" },
+                           "SON": { "type": "State", "name": "Sonora" },
+                           "MOR": { "type": "State", "name": "Morelos" },
+                           "MIC": { "type": "State", "name": "Michoacán de Ocampo" },
+                           "CAM": { "type": "State", "name": "Campeche" },
+                           "COA": { "type": "State", "name": "Coahuila de Zaragoza" },
+                           "QUE": { "type": "State", "name": "Querétaro" },
+                           "COL": { "type": "State", "name": "Colima" },
+                           "TAM": { "type": "State", "name": "Tamaulipas" },
+                           "YUC": { "type": "State", "name": "Yucatán" },
+                           "PUE": { "type": "State", "name": "Puebla" },
+                           "HID": { "type": "State", "name": "Hidalgo" },
+                           "CHP": { "type": "State", "name": "Chiapas" },
+                           "TLA": { "type": "State", "name": "Tlaxcala" },
+                           "GRO": { "type": "State", "name": "Guerrero" },
+                           "CHH": { "type": "State", "name": "Chihuahua" },
+                           "VER": { "type": "State", "name": "Veracruz de Ignacio de la Llave" },
+                           "ZAC": { "type": "State", "name": "Zacatecas" },
+                           "SLP": { "type": "State", "name": "San Luis Potosí" },
+                           "OAX": { "type": "State", "name": "Oaxac"}
+                       } 
+                   }
+                },
+                { "id":2,
+                    "MX": {
+                                  "Country_Subdivions" : {
+                                      "JAL": { "type": "State", "name": "Jalisco" },
+                                      "MEX": { "type": "State", "name": "México" },
+                                      "DUR": { "type": "State", "name": "Durango" },
+                                      "TAB": { "type": "State", "name": "Tabasco" },
+                                      "GUA": { "type": "State", "name": "Guanajuato" },
+                                      "'CMX": { "type": "City", "name": "Ciudad de México" },
+                                      "SIN": { "type": "State", "name": "Sinaloa" },
+                                      "BCS": { "type": "State", "name": "Baja California Sur" },
+                                      "NAY": { "type": "State", "name": "Nayarit" },
+                                      "AGU": { "type": "State", "name": "Aguascalientes" },
+                                      "ROO": { "type": "State", "name": "Quintana Roo" },
+                                      "NLE": { "type": "State", "name": "Nuevo León" },
+                                      "BCN": { "type": "State", "name": "Baja California" },
+                                      "SON": { "type": "State", "name": "Sonora" },
+                                      "MOR": { "type": "State", "name": "Morelos" },
+                                      "MIC": { "type": "State", "name": "Michoacán de Ocampo" },
+                                      "CAM": { "type": "State", "name": "Campeche" },
+                                      "COA": { "type": "State", "name": "Coahuila de Zaragoza" },
+                                      "QUE": { "type": "State", "name": "Querétaro" },
+                                      "COL": { "type": "State", "name": "Colima" },
+                                      "TAM": { "type": "State", "name": "Tamaulipas" },
+                                      "YUC": { "type": "State", "name": "Yucatán" },
+                                      "PUE": { "type": "State", "name": "Puebla" },
+                                      "HID": { "type": "State", "name": "Hidalgo" },
+                                      "CHP": { "type": "State", "name": "Chiapas" },
+                                      "TLA": { "type": "State", "name": "Tlaxcala" },
+                                      "GRO": { "type": "State", "name": "Guerrero" },
+                                      "CHH": { "type": "State", "name": "Chihuahua" },
+                                      "VER": { "type": "State", "name": "Veracruz de Ignacio de la Llave" },
+                                      "ZAC": { "type": "State", "name": "Zacatecas" },
+                                      "SLP": { "type": "State", "name": "San Luis Potosí" },
+                                      "OAX": { "type": "State", "name": "Oaxac"}
+                                  } 
+                              }
+                 }
+            ]
+    }

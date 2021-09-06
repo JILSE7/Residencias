@@ -1,0 +1,57 @@
+//C_Countries
+C_Countries_Country_Code_3166_1_Alpha_2
+Char(2)
+C_Countries_Country_Code_3166_1_Alpha_3
+Char(3)
+C_Countries_Country_Code_3166_1_numeric
+Char(3)
+C_Countries_Country_subdivision_links_3166₂   -ESTADOS O PROVIENCEAS
+C_Countries_Country_Official_Name
+Varchar(60) //el nombre mas grande del mundo es de 52 caracteres
+El nombre oficial en inglés
+C_Countries_Main_Currency_Code_639_3
+Char(3)
+C_Countries_Country_Alternative_Currencies
+JSON
+C_Countries_Country_Names
+JSON
+C_Countries_Country_Main_Lenguage
+ALPHA2.CAT ? 
+C_Countries_Country_Alternative_lenguages
+JSON
+
+
+//C_Countries_Subdivisions 
+id,
+Country_3166-1_Alpha_2 : 
+Char(2) FOREIGN KEY
+Country_Subdivions : { //JSON
+    "Ciudad de Mexico" : "CMX",   
+}
+
+
+//C_Languajes //https://assemblysys.com/es/codigos-de-idiomas-iso-639/
+id,
+C_Languaje_639-3: Char(3)
+C_Languaje_Name: Varchar(45)
+
+//C_Currency   https://assemblysys.com/es/codigos-de-monedas-iso-4217/
+id,
+C_Curency_iso_4217: Char(3)
+C_Curency_iso_4217_Number : Char(3)
+Curency_name: Varchar(60),
+Curency_symbol:  Varchar(5),
+Curency_fraccion Varchar(10),
+
+
+//C_Colors PENDIENTE
+
+
+//C_Genders
+gender CHAR(1) NOT NULL,
+PRIMARY KEY (gender)
+
+//C_Postal_Codes;
+
+
+
