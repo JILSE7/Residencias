@@ -51,7 +51,17 @@ Curency_fraccion Varchar(10),
 gender CHAR(1) NOT NULL,
 PRIMARY KEY (gender)
 
-//C_Postal_Codes;
+//C_Postal_Codes; //PENDIENTE
+
+//Unidades de Medida SAT
+Type
+Subtype
+Clabe
+name
+
+//SIC
+C_S_Code
+C_S_Description
 
 
 

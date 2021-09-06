@@ -225,20 +225,31 @@ const data = [
 
 tipos.forEach(tipo => {
     const hola = {tipo};
-    let h =[];
+    let h ={};
      subtipos.forEach(sub => {
         const subAux = [];
         
-        sub.forEach((deepSub,i) => {
-         //console.log(tipo,deepSub);
-         subAux.push(deepSub);
+                    sub.forEach((deepSub,i) => {
+                    //console.log();
+                    subAux.push({deepSub});
+                    h.subtipos = [subAux];
+                    
+                        data.forEach((data,i) => {
+                            data.forEach((subData, j) => {
+                                    subData.forEach(deepData => {
+                                        //console.log(deepData);
+                                    })
+                            })
+                })
+
         })
         
-        h.push(subAux)
+        //h.push(subAux)
+        //console.log(h);
         
     })
-   hola.subtypo = h;
-   console.log(hola);
+  hola.subtypo = h;
+  console.log(hola); 
 })
 
 
