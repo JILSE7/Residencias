@@ -1,0 +1,307 @@
+{
+  "data": [
+  
+  
+    
+    { "Auto inductancia, Inductancia mutua, Permeabilidad": { "data": [] } },
+    { "Capacidad": { "data": [
+      
+    ] } },
+    { "Carga de resistencia por unidad de longitud": { "data": [] } },
+    {
+      "Carga eléctrica, Cantidad de eléctricidad, Flujo eléctrico(flujo de desplazamiento)": {
+        "data": []
+      }
+    },
+    { "Carga líneal": { "data": [] } },
+    { "Coeficiente, Característica de rendimiento": { "data": [] } },
+    {
+      "Conductancia (para corriente continua), Admitancia…dmitancia), Conductancia (para corriente alterna)": {
+        "data": []
+      }
+    },
+    { "Conductividad": { "data": [] } },
+    {
+      "Corriente eléctrica, diferencia de potencial magnético, Fuerza magnetomotriz, Conexión actual": {
+        "data": []
+      }
+    },
+    { "Densidad actual": { "data": [] } },
+    {
+      "Densidad de corriente eléctrica lineal, Corriente eléctrica lineal, Intensidad de campo magnético": {
+        "data": []
+      }
+    },
+    {
+      "Densidad de energía electromagnética, Energía electromagnética volumetríca": {
+        "data": []
+      }
+    },
+    {
+      "Densidad de flujo magnético, Inducción magnética, Polarización magnética": {
+        "data": []
+      }
+    },
+    {
+      "Densidad superficial de carga, Densidad de flujo eléctrico, Polarización eléctrica de desplazamiento": {
+        "data": []
+      }
+    },
+    {
+      "Densidad volumétrica de carga, Densidad de carga, Carga Volumétrica": {
+        "data": []
+      }
+    },
+    { "Flujo magnético": { "data": [] } },
+    { "Fuerza de campo eléctrico": { "data": [] } },
+    { "Momento dipolar eléctrico": { "data": [] } },
+    {
+      "Momento electromagnético, Momento magnético, (momento de área magnética)": {
+        "data": []
+      }
+    },
+    {
+      "Permeabilidad, Permeabilidad del vacío, Constante magnética": {
+        "data": []
+      }
+    },
+    {
+      "Permitividad, Permitividad del vacío, (constante eléctrica)": {
+        "data": []
+      }
+    },
+    { "Poder aparente": { "data": [] } },
+    { "Poder reactivo": { "data": [] } },
+    { "Potencia (para corriente continua), Potencia activa": { "data": [] } },
+    { "Potencial del vector magnético": { "data": [] } },
+    {
+      "Potencial eléctrico, Diferencia de potencial, Tensión, Voltaje,  Fuerza electromotriz": {
+        "data": []
+      }
+    },
+    { "Reluctancia": { "data": [] } },
+    {
+      "Resistencia (a la corriente continua), Impedancia, (impedancias complejas), Módulo de impedancia, Resitencia (a la corriente alterna), Reactancia": {
+        "data": []
+      }
+    },
+    { "Resistencia lineal": { "data": [] } },
+    { "Resistividad": { "data": [] } },
+    { "Susceptancia": { "data": [] } },
+    { "Coeficiente de amortiguamiento": { "data": [] } },
+    { "Frecuencia": { "data": [] } },
+    { "Frecuencia rotacional": { "data": [] } },
+    {
+      "Nivel de una cantidad de campo, Nivel de una cantidad de potencia": {
+        "data": []
+      }
+    },
+    { "Actividad": { "data": [] } },
+    { "Actividad específica en una muestra ": { "data": [] } },
+    { "Actividad volumétrica, Concentración de actividad": { "data": [] } },
+    { "Coeficiente giromagnético, (proporción giromagnética)": { "data": [] } },
+    { "Planck constante": { "data": [] } },
+    { "Coeficiente de Seebeck para las sustancias a y b": { "data": [] } },
+    { "Coeficiente de Thompson": { "data": [] } },
+    { "Coeficiente Hall": { "data": [] } },
+    {
+      "Concentración espectral de modos vibratorios (en términos de frecuencia angular)": {
+        "data": []
+      }
+    },
+    { "Constante de Richardson": { "data": [] } },
+    { "Densidad de estados": { "data": [] } },
+    { "Quantum de flujo magnético": { "data": [] } },
+    {
+      "Repetición angular de Fermi, Número de onda angular de Fermi": {
+        "data": []
+      }
+    },
+    { "Acidez y Alcalinidad": { "data": [] } },
+    { "Actividad catalítica": { "data": [] } },
+    { "Cantidad de sustancia": { "data": [] } },
+    {
+      "Capacidad calorífica molar, Entropía molar, Constante de gas molar": {
+        "data": []
+      }
+    },
+    { "Conductividad molar": { "data": [] } },
+    { "Constante de Avogrado": { "data": [] } },
+    { "Constante de Faraday": { "data": [] } },
+    { "Dosificación volumétrica": { "data": [] } },
+    { "Energía termodinámica molar": { "data": [] } },
+    { "Flujo molar": { "data": [] } },
+    { "Fuerza iónica": { "data": [] } },
+    { "Masa de mólecula": { "data": [] } },
+    { "Masa molar": { "data": [] } },
+    {
+      "Masa volumétrica, Densidad de masa, Densidad, conc…a de B, Cantidad de sustancia, Concentración de B": {
+        "data": []
+      }
+    },
+    { "Molalidad del soluto B": { "data": [] } },
+    { "Momento dipolar magnético": { "data": [] } },
+    {
+      "Poder óptico rotatorio, rotatorio, Poder rotatorio óptico específico": {
+        "data": []
+      }
+    },
+    { "Polarizabilidad eléctrica de una molécula": { "data": [] } },
+    { "Potencia rotatoria óptica molar": { "data": [] } },
+    { "Volumen molar": { "data": [] } },
+    { "Cantidad de Luz": { "data": [] } },
+    { "Coeficiente de absorción molar": { "data": [] } },
+    {
+      "Concentración espectral de densidad de energía rad…iante espectral (en términos de longitud de onda)": {
+        "data": []
+      }
+    },
+    { "Constante Stefan-Boltzmann": { "data": [] } },
+    { "Densidad de energía radiante": { "data": [] } },
+    {
+      "Eficacia luminosa, Eficacia luminosa espectral, Ef… especificada, Máxima eficacia luminosa espectral": {
+        "data": []
+      }
+    },
+    {
+      "Energía radiante, Tasa de fluencia, Salida de radiación, Irradiación, primera constante de radiación": {
+        "data": []
+      }
+    },
+    { "Exposición a la luz": { "data": [] } },
+    { "Exposición de fotones": { "data": [] } },
+    {
+      "Fluencia de la energía radiante, Exposición a la radiancia": {
+        "data": []
+      }
+    },
+    { "Flujo luminoso": { "data": [] } },
+    { "Iluminancia": { "data": [] } },
+    { "Intensidad de fotones": { "data": [] } },
+    { "Intensidad luminosa": { "data": [] } },
+    { "Intensidad radiante": { "data": [] } },
+    { "Luminancia": { "data": [] } },
+    { "Luminancia de fotones, Resplandor de fotones": { "data": [] } },
+    { "Número de onda angular, Repetición angular": { "data": [] } },
+    { "Resplandor": { "data": [] } },
+    { "Salida de fotones, Irradiancia": { "data": [] } },
+    { "Salida luminosa": { "data": [] } },
+    { "Segunda radiación constante": { "data": [] } },
+    {
+      "Cantidad de movimiento, momento lineal, ímpetu o moméntum": {
+        "data": []
+      }
+    },
+    { "Caudal de masa": { "data": [] } },
+    { "Caudal volumétrico": { "data": [] } },
+    { "Compresibilidad, Compresibilidad a granel": { "data": [] } },
+    { "Constante gravitacional": { "data": [] } },
+    { "Densidad lineal, Masa lineal": { "data": [] } },
+    { "Densidad superficial, Masa areica": { "data": [] } },
+    { "Densidad, Densidad de masa, Masa volumétrica": { "data": [] } },
+    { "Fuerza dividida por longitud": { "data": [] } },
+    { "Fuerza, Peso": { "data": [] } },
+    { "Impulso": { "data": [] } },
+    { "Impulso angular": { "data": [] } },
+    { "Masa": { "data": [] } },
+    { "Momento de fuerza, Momento puro o Torque": { "data": [] } },
+    { "Momento de impulso, Momento angular": { "data": [] } },
+    { "Momento de inercia (momento dinámico de inercia)": { "data": [] } },
+    { "Otros (mecánica)": { "data": [] } },
+    { "Poder": { "data": [] } },
+    {
+      "Presión, Esfuerzo normal, Esfuerzo cortante, Módul… rigidez, Módulo de volumen, Módulo de compresión": {
+        "data": []
+      }
+    },
+    { "Proporción de presión": { "data": [] } },
+    { "Relación de masa": { "data": [] } },
+    {
+      "Rigidez torsional, Momento de torsión relacionado con el área": {
+        "data": []
+      }
+    },
+    {
+      "Segundo momento de área, Segundo momento axial de área": { "data": [] }
+    },
+    { "Segundo momento polar del área": { "data": [] } },
+    { "Tasa de flujo de energía": { "data": [] } },
+    { "Tasa de fuga de gas": { "data": [] } },
+    { "Tensión superficial": { "data": [] } },
+    { "Trabajo, Energía, Energía potencial, Energía cinética": { "data": [] } },
+    { "Viscosidad (viscosidad dinámica)": { "data": [] } },
+    { "Viscosidad cinemática": { "data": [] } },
+    { "Volumen específico, Volumen masivo": { "data": [] } },
+    { "Múltiplos / Fracciones /Decimales": { "data": [] } },
+    { "Unidad": { "data": [] } },
+    { "Números enteros / Números / Ratios": { "data": [] } },
+    { "Coeficiente de atenuación masiva": { "data": [] } },
+    { "Densidad de fuente de neutrones": { "data": [] } },
+    { "Dosificación física D (Dosificación absorbida)": { "data": [] } },
+    {
+      "Energía específica impartida, Energía masónica impartida": { "data": [] }
+    },
+    { "Exposición": { "data": [] } },
+    { "Fluencia de partículas": { "data": [] } },
+    { "Kerma": { "data": [] } },
+    { "Movilidad": { "data": [] } },
+    { "Potencia de frenado lineal total": { "data": [] } },
+    { "Potencia total de detención de masa": { "data": [] } },
+    { "Potencia total de parada atómica": { "data": [] } },
+    { "Ralentizando la densidad": { "data": [] } },
+    { "Salida de dosis de equivalencia": { "data": [] } },
+    { "Sección transversal angular": { "data": [] } },
+    { "Sección transversal angular espectral": { "data": [] } },
+    { "Sección transversal espectral": { "data": [] } },
+    { "Sección transversal total": { "data": [] } },
+    { "Tasa de dosis absorbida": { "data": [] } },
+    { "Tasa de exposición": { "data": [] } },
+    {
+      "Tasa de fluencia de la energía, (densidad de flujo de energía)": {
+        "data": []
+      }
+    },
+    {
+      "Tasa de fluencia de partículas, (densidad de flujo partical), Tasa de fluencia de neutrones (densidad de flujo de neutrones)": {
+        "data": []
+      }
+    },
+    { "Tasa de Kerma": { "data": [] } },
+    { "Aceleración angular": { "data": [] } },
+    {
+      "Aceleración, Aceleración de caída libre, Aceleración debido a la gravedad": {
+        "data": []
+      }
+    },
+    { "Ángulo (plano)": { "data": [] } },
+    { "Ángulo sólido": { "data": [] } },
+    { "Área": { "data": [] } },
+    { "Curvatura": { "data": [] } },
+    {
+      "Longitud, Anchura, Altura, Espesor, Radio, Radio d…esianas, Diámetro, longitud del camino, Distancia": {
+        "data": []
+      }
+    },
+    { "Relación de volumen": { "data": [] } },
+    { "Tiempo": { "data": [] } },
+    { "Velocidad angular": { "data": [] } },
+    { "Velocidad, velocidad de fase, Velocidad de grupo": { "data": [] } },
+    { "Volumen": { "data": [] } },
+    { "Volumen por temperatura": { "data": [] } },
+    { "Unidades base calificadas en los niveles 1 y 2": { "data": [] } },
+    { "Diversos": { "data": [] } },
+    { "Empaques a granel": { "data": [] } },
+    { "Empaques flexibles, tipo bolsa.": { "data": [] } },
+    { "Empaques rígidos, otros.": { "data": [] } },
+    { "Empaques rígidos, tipo bulbo, (esférico)": { "data": [] } },
+    { "Empaques rígidos, tipo caja, (prismático)": { "data": [] } },
+    { "Empaques rígidos, tipo tambor (cilíndrico)": { "data": [] } },
+    { "Otros empaques o empaques especiales": { "data": [] } },
+    { "Sin empaque (incluye a granel)": { "data": [] } },
+    { "Unidades de empaque": { "data": [] } },
+    { "Unidades de envío y transporte": { "data": [] } },
+    { "Unidades de tecnología de información": { "data": [] } },
+    { "Unidades de venta": { "data": [] } },
+    { "Unidades específicas de la industria (varias)": { "data": [] } }
+  ]
+}
